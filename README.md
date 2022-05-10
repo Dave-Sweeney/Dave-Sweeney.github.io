@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/Dave-Sweeney/Dave-Sweeney.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Master of Software Engineering
+#### The Pennsylvania State University
+Graduated May, 2021 [CeDid: 21D6-V59B-DUYO](https://www.registrar.psu.edu/graduation/diplomas/cediploma/validate)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bachelor of Science - Computer Science
+#### Hawaii Pacific University
+Graduated December, 2017 
 
-### Markdown
+### Work History
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
